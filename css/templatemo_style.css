@@ -439,9 +439,9 @@ h1 {
 
 .gallery-item img {
     max-height: 100%;
-    width: auto;
+    width: 100%;
     margin: auto;
-  display: block;
+    display: block;
 }
 
 .gallery-item .overlay {
